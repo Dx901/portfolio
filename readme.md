@@ -47,15 +47,15 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm an expert on **software architectures for Google Cloud,**
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+<!-- 📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/) -->
 
 📄 Know about my experiences [through my CV](about/resume.md)
 
 🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **Find me at the court, or behind the piano 🎹**
 
 ### My work
 
@@ -91,8 +91,8 @@
 </p>
 <p>
   <!-- Add summary of your own contributions -->
-  I have not yet developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
-  That should be ready in a few
+  Still working on the Elewa group project collaborating with my team members.
+
 </p>
 <br/>
 
@@ -100,9 +100,11 @@
 ### My contributions
 
 | Date     	| Issue 	| Status 	| Link 	|
+| 12/01/23	| 🏇 Creating the website footer| Closed | [#17](https://github.com/italanta/kujali/issues/17) |
 |----------	|-------	|--------	|------	|
-| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
-| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) |
+| 17/02/23 	| 🏇 Picked up issue #24 creating a sitemap| Not yet completed | [#24](https://github.com/italanta/kujali/issues/24) |
+|22/02/23   | 🏇 Still working on issue #24 and have had to back to some angular basics | Not yet completed | [#24](https://github.com/italanta/kujali/issues/24) |
+
 
 
 ### The technologies I used
@@ -122,20 +124,9 @@
 </p>
 <p>
   <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
+  I have familiarised myself with the base architecture of the Elewa project and picked up two issues so far and still getting familiar wit te project.
 </p>
 <br/>
-
-<!-- Link in this table your actual contributions -->
-### My contributions
-
-| Date     	| Issue 	| Status 	| Link 	|
-|----------	|-------	|--------	|------	|
-| 26/09/22 	| 🚚🏠⚡ Conversations state and model layer | Merged | [#79](https://github.com/italanta/kujali/issues/79) |
-| 01/08/22 	| 🚀 Add serverless backend capabilities | Merged | [#19](https://github.com/italanta/elewa/pull/19) |
-| 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
-| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) |
-
 
 ### The technologies I used
 
@@ -148,7 +139,7 @@
 
 <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
+<p>&nbsp;<img align="center" src="https://github.com/Dx901" alt="DyesJr" /></p>
 
 <!-- END -->
 
